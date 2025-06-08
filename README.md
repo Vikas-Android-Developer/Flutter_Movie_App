@@ -94,11 +94,11 @@ Built with Riverpod for state management and featuring a sleek Cupertino-inspire
 
 ## License
 
-MIT © [Your Name]
+MIT © [Vikas Salvi]
 
 ---
 
 ## Contact
 
-Feel free to reach out at [your-email@example.com] or [GitHub Profile Link]
+Feel free to reach out at [vikassalvi693@gmail.com] 
 
