@@ -32,7 +32,7 @@ Built with Riverpod for state management and featuring a sleek Cupertino-inspire
 
 ## Screenshots
 
-*Add screenshots here to showcase your app UI*
+
 
 ---
 
